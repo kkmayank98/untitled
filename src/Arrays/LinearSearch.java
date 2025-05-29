@@ -9,7 +9,7 @@ public class LinearSearch {
             System.out.println("Integer not found in array");
         }
         else{
-            System.out.println("integerfound at index: "+result);
+            System.out.println("integer found at index: " +result);
         }
         
     }
